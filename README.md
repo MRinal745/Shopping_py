@@ -3,6 +3,10 @@ Basically, this software is a user-friendly software which can be used by both a
 
 
 
+https://user-images.githubusercontent.com/92218316/182010519-bfb297e5-2c0c-4c7a-8ddd-3a9bbf39c810.mp4
 
 
-![image](https://user-images.githubusercontent.com/92218316/182010500-5c7c4e26-6e36-4534-aaba-1b0e7ed76af4.png)
+
+
+
+
